@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Gingam_01_Mixed_2_0: 855282264130902348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

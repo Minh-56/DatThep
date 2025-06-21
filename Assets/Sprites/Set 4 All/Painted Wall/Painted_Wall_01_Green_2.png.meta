@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Painted_Wall_01_Green_2_0: -3925917149621146513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

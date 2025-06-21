@@ -1,12 +1,17 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CameraPanning : MonoBehaviour
 {
+    //Thiết lập di chuyển camera
     [SerializeField] float panSpeed = 10f;
     [SerializeField] float edgeSize = 15f;
+
+    //Zoom camera
     [SerializeField] float zoomStep = 2f;
     [SerializeField] float zoomMin = 5f;
     [SerializeField] float zoomMax = 15f;
+
+    //Giới hạn vùng di chuyển camera
     [SerializeField] Vector2 limitMin;
     [SerializeField] Vector2 limitMax;
 
@@ -22,6 +27,7 @@ public class CameraPanning : MonoBehaviour
 
     void LateUpdate()
     {
+        //bám theo đơn vị đang theo giỏi
         if (targetToFollow != null)
         {
             Vector3 target = targetToFollow.position;
@@ -35,6 +41,7 @@ public class CameraPanning : MonoBehaviour
         HandleZoom();
     }
 
+    //Di chuyển camera khi chuột đến mép màn hình
     void HandleEdgeMove()
     {
         Vector3 pos = transform.position;
@@ -51,6 +58,7 @@ public class CameraPanning : MonoBehaviour
         transform.position = pos;
     }
 
+    //Kéo chuột giữa để di chuyển camera
     void HandleMouseDrag()
     {
         if (Input.GetMouseButtonDown(2))
@@ -69,6 +77,7 @@ public class CameraPanning : MonoBehaviour
         }
     }
 
+    //zoom bằng cuộn chuột
     void HandleZoom()
     {
         float scroll = Input.GetAxis("Mouse ScrollWheel");
@@ -79,11 +88,13 @@ public class CameraPanning : MonoBehaviour
         }
     }
 
+    // camera theo dõi đối tượng cụ thể
     public void FocusOn(Transform unit)
     {
         targetToFollow = unit;
     }
 
+    //Hủy theo dõi
     public void CancelFollow()
     {
         targetToFollow = null;

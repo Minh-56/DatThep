@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Graffiti_Tag_2_0: 5347197162799276730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

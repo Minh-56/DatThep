@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Bark_01_Moss_1_0: -123095030268043874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

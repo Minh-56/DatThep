@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GocCay-01_0: 5169198325771123762
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

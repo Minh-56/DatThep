@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Foliage_Leaves_01_Black_1_0: 8496726594817167352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

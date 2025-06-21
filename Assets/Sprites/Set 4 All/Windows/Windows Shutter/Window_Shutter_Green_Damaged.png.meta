@@ -298,7 +298,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Window_Shutter_Green_Damaged_0: 4242301027064143100
+      Window_Shutter_Green_Damaged_1: 5178433195705737484
+      Window_Shutter_Green_Damaged_2: -129263656641839647
+      Window_Shutter_Green_Damaged_3: -6900463755254726876
+      Window_Shutter_Green_Damaged_4: -8479668040640699948
+      Window_Shutter_Green_Damaged_5: 5541337250729116059
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

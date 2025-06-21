@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metal_01_Grey_Duct_2_0: -2203040147027258909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

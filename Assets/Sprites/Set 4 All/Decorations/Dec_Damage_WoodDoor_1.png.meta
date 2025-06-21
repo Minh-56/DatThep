@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Damage_WoodDoor_1_0: 5659116498401311210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

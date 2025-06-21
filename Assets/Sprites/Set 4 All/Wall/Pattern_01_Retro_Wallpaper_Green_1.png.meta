@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pattern_01_Retro_Wallpaper_Green_1_0: -2607653786267583943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Diamond_01_Blue_4_0: 4824515095500461606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

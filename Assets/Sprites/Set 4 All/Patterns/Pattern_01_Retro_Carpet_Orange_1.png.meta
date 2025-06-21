@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pattern_01_Retro_Carpet_Orange_1_0: -6762865335394821282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

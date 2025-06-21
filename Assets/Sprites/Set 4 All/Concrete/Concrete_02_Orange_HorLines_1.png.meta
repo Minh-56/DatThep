@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_02_Orange_HorLines_1_0: -3952524215529031568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metal_01_Grey_Corrugated_2_0: -5398996657702117381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

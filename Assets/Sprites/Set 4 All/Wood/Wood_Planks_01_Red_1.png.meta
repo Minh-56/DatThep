@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Planks_01_Red_1_0: 4775283685723797448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Leather_01_Green_1_0: 3182345468300930177
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

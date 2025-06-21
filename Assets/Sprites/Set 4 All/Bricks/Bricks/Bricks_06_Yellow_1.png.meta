@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bricks_06_Yellow_1_0: 1959354120932174783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

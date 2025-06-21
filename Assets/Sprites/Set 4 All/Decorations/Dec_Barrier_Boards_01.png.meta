@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Barrier_Boards_01_0: -7459075626938780382
+      Dec_Barrier_Boards_01_1: -2211391897368047654
+      Dec_Barrier_Boards_01_2: 4052486832226714909
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Rectangle_01_Blue_1_0: -6852956469640913563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

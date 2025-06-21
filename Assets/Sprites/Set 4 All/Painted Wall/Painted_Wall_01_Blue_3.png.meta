@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Painted_Wall_01_Blue_3_0: 7189245616382719889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

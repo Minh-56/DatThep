@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Decal_PaintedCross_1_0: 4355510892349595558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

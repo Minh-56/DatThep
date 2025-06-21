@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_02_Grey_1_0: -2215545146726582291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

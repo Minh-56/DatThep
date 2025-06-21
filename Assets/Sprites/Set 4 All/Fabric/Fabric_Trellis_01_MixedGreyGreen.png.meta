@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Trellis_01_MixedGreyGreen_0: 3383731556312735872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

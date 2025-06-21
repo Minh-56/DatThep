@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metal_Brushed_01_Yeloow_0: 8555879184837938820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

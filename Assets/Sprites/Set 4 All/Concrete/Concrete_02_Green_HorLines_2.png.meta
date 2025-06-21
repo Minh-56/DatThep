@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_02_Green_HorLines_2_0: -5513542047545621348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

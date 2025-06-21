@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bricks_04_Yellow_3_Moss_2_0: -1368335878350322240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

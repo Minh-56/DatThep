@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cobblestones_01_Green_1_0: 1425133675269560181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

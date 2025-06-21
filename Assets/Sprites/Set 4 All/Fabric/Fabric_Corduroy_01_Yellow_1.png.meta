@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Corduroy_01_Yellow_1_0: -1379928411893143265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

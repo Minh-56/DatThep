@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metal_01_Grey_Rust_5_0: 2386584997423857717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

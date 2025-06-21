@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Metal_01_Grey_Lines_4_0: 1299225754441078421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Gingam_01_Black_1_0: -4708694410731658024
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

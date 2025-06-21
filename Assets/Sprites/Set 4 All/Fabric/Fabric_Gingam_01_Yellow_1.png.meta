@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Gingam_01_Yellow_1_0: 1119150820576768825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

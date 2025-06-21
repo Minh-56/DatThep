@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 
@@ -40,12 +40,12 @@ public class UnitSelection : MonoBehaviour
             Vector3 currentMouseWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             currentMouseWorld.z = 0f;
 
-            Vector3 lowerLeft = new Vector3(
+            Vector3 lowerLeft = new(
                 Mathf.Min(startWorldPos.x, currentMouseWorld.x),
                 Mathf.Min(startWorldPos.y, currentMouseWorld.y),
                 0f);
 
-            Vector3 upperRight = new Vector3(
+            Vector3 upperRight = new(
                 Mathf.Max(startWorldPos.x, currentMouseWorld.x),
                 Mathf.Max(startWorldPos.y, currentMouseWorld.y),
                 0f);
@@ -83,7 +83,7 @@ public class UnitSelection : MonoBehaviour
 
     void SelectUnits(Vector3 a, Vector3 b)
     {
-        selectedUnits.Clear();
+        ClearSelection();
         Vector3 min = Vector3.Min(a, b);
         Vector3 max = Vector3.Max(a, b);
 
@@ -120,10 +120,7 @@ public class UnitSelection : MonoBehaviour
                 }
                 else
                 {
-                    foreach (var u in selectedUnits)
-                        u.IsSelected = false;
-
-                    selectedUnits.Clear();
+                    ClearSelection();
                     selectedUnits.Add(unit);
                     unit.IsSelected = true;
                 }
@@ -131,9 +128,23 @@ public class UnitSelection : MonoBehaviour
             }
         }
 
+        ClearSelection();
+    }
+
+    // ✅ Thêm để các hệ thống khác (UI, nhóm, lệnh) sử dụng
+    public void ClearSelection()
+    {
         foreach (var u in selectedUnits)
             u.IsSelected = false;
-
         selectedUnits.Clear();
+    }
+
+    public void SelectUnit(Controllable unit)
+    {
+        if (!selectedUnits.Contains(unit))
+        {
+            selectedUnits.Add(unit);
+            unit.IsSelected = true;
+        }
     }
 }

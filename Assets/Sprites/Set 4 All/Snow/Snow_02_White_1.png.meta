@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Snow_02_White_1_0: 5121669178481678372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_Rebar_01_Orange_3_0: -1051901648827226405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

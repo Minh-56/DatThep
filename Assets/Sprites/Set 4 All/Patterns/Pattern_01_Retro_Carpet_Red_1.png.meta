@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pattern_01_Retro_Carpet_Red_1_0: -7851479270133370176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

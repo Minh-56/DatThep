@@ -573,7 +573,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Nook_Blood_1_0: -5082032188260457959
+      Dec_Nook_Blood_1_1: 1830115087274476037
+      Dec_Nook_Blood_1_10: -4245271793000143894
+      Dec_Nook_Blood_1_11: -8951347419965147923
+      Dec_Nook_Blood_1_12: -6056371732249509622
+      Dec_Nook_Blood_1_13: 5954630379838955919
+      Dec_Nook_Blood_1_14: 6069236966895333266
+      Dec_Nook_Blood_1_15: 2449627828787168135
+      Dec_Nook_Blood_1_16: -5479763015121872681
+      Dec_Nook_Blood_1_2: 1810174797694451620
+      Dec_Nook_Blood_1_3: -3536993961914597269
+      Dec_Nook_Blood_1_4: -5673263261393599768
+      Dec_Nook_Blood_1_5: 263061590900843780
+      Dec_Nook_Blood_1_6: 2819961938163753145
+      Dec_Nook_Blood_1_7: 3424187633230142571
+      Dec_Nook_Blood_1_8: -34976923620475229
+      Dec_Nook_Blood_1_9: -7800207267292997031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

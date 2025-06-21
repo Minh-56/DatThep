@@ -823,7 +823,34 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Damage_Bullets_1_0: 8975761530045230204
+      Dec_Damage_Bullets_1_1: 8144737186266280384
+      Dec_Damage_Bullets_1_10: 5211199176097635364
+      Dec_Damage_Bullets_1_11: -309095863707434545
+      Dec_Damage_Bullets_1_12: -2762142488965040050
+      Dec_Damage_Bullets_1_13: -5767643602449982147
+      Dec_Damage_Bullets_1_14: -8771218960754774517
+      Dec_Damage_Bullets_1_15: 1501512421673316138
+      Dec_Damage_Bullets_1_16: -5015246639257011253
+      Dec_Damage_Bullets_1_17: -5687699097727135366
+      Dec_Damage_Bullets_1_18: -2753988641750435616
+      Dec_Damage_Bullets_1_19: -6746050554314948512
+      Dec_Damage_Bullets_1_2: 157593971290339557
+      Dec_Damage_Bullets_1_20: -4135639893470442070
+      Dec_Damage_Bullets_1_21: 6808885594083912369
+      Dec_Damage_Bullets_1_22: -1739537454948928567
+      Dec_Damage_Bullets_1_23: -3323856410468201840
+      Dec_Damage_Bullets_1_24: -1452804732914419327
+      Dec_Damage_Bullets_1_25: 8105561008833944575
+      Dec_Damage_Bullets_1_26: 1995657061277995250
+      Dec_Damage_Bullets_1_3: -4230923984721051899
+      Dec_Damage_Bullets_1_4: -770680440872854386
+      Dec_Damage_Bullets_1_5: 1794886388238817674
+      Dec_Damage_Bullets_1_6: 3544943628631874866
+      Dec_Damage_Bullets_1_7: -1455621935473002143
+      Dec_Damage_Bullets_1_8: -8052320945836478272
+      Dec_Damage_Bullets_1_9: 7895409022471881653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick_VerticalSteps_Blue_1_0: 1099492251032283621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

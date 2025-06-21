@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Trellis_02_Red_2_0: 2164688301699960942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

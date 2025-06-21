@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick_Herringbone_Grey_2_0: 8048037388904136988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

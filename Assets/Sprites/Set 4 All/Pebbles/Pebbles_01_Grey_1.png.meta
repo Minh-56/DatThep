@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pebbles_01_Grey_1_0: 1777319021220112701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

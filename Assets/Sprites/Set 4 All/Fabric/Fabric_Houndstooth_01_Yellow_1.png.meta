@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Houndstooth_01_Yellow_1_0: 3498830406020286170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

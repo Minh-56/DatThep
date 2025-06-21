@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Small_Checkered_1_0: -3408809259899066473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

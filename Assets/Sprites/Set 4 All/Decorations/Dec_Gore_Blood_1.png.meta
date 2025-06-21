@@ -248,7 +248,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Gore_Blood_1_0: -5979536598107256022
+      Dec_Gore_Blood_1_1: -8610729100593054454
+      Dec_Gore_Blood_1_2: -6550642448180840944
+      Dec_Gore_Blood_1_3: 6507196140136104226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

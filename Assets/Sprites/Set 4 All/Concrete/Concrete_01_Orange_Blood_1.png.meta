@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_01_Orange_Blood_1_0: -1676876143617037005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

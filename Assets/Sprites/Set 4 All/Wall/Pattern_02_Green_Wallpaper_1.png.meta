@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pattern_02_Green_Wallpaper_1_0: -1600960706552464773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

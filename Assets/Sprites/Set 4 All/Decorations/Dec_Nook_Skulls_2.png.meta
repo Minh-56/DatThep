@@ -573,7 +573,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Nook_Skulls_2_0: 7757468277216284637
+      Dec_Nook_Skulls_2_1: 8406975243122835900
+      Dec_Nook_Skulls_2_10: -191955637242604161
+      Dec_Nook_Skulls_2_11: -3817936355520100026
+      Dec_Nook_Skulls_2_12: -8254144447450998388
+      Dec_Nook_Skulls_2_13: -8365572230648620836
+      Dec_Nook_Skulls_2_14: -8670103660019764615
+      Dec_Nook_Skulls_2_15: -2871738454287089713
+      Dec_Nook_Skulls_2_16: 5197966030179811292
+      Dec_Nook_Skulls_2_2: 6982552933272065050
+      Dec_Nook_Skulls_2_3: 3641251890113284463
+      Dec_Nook_Skulls_2_4: 3131806489199382889
+      Dec_Nook_Skulls_2_5: 4023649944268658469
+      Dec_Nook_Skulls_2_6: -9186243277599101794
+      Dec_Nook_Skulls_2_7: -7739894692520127410
+      Dec_Nook_Skulls_2_8: -2802371414707118675
+      Dec_Nook_Skulls_2_9: 7446961012899422142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

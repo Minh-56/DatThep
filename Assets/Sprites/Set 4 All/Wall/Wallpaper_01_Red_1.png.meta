@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wallpaper_01_Red_1_0: -3348864366334373391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

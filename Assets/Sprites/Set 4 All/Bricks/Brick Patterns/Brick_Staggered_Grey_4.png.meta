@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick_Staggered_Grey_4_0: 9002644244742895648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

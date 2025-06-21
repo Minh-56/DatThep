@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Planks_07_Brown_1_0: -1865317190104079914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

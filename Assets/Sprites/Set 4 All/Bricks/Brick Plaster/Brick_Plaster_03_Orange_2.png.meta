@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brick_Plaster_03_Orange_2_0: 6153582401414668516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

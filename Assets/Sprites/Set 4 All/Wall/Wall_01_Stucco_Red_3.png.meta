@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wall_01_Stucco_Red_3_0: 4789942845488266269
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

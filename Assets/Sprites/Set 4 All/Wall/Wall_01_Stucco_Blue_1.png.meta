@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wall_01_Stucco_Blue_1_0: -2842224458384597488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Window_Shutter_Green_Closed_0: -6871357932706201769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Rectangle_Blue_Damaged_6_0: 1452211187671260573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

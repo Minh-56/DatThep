@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Concrete_02_Orange_ VertLines_1_0: -8253174777868473511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

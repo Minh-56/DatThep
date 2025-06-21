@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dec_Barrier_Pole_1_0: 1865237240203875969
+      Dec_Barrier_Pole_1_1: -6077573698679483179
+      Dec_Barrier_Pole_1_2: 375755599557088510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

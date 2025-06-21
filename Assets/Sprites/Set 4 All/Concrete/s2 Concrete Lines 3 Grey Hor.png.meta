@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      s2 Concrete Lines 3 Grey Hor_0: -7321907847294628072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

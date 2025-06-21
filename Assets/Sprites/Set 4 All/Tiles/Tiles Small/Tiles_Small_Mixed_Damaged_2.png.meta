@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Small_Mixed_Damaged_2_0: 3792655447982416858
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Rotated_Orange_1_0: -7584708910831563446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

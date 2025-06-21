@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stones_Loose_01_Grey_2_0: 6540506205844279910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
