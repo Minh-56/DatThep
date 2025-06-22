@@ -1049,7 +1049,7 @@ Transform:
   m_GameObject: {fileID: 590693165}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.4901607, y: -2.2247062, z: 0}
+  m_LocalPosition: {x: 4.12, y: -1.79, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9032,7 +9032,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 000000005d82fd1c
+  m_ApplyToSortingLayers: 000000005d82fd1c1b8ceb426b57ad38
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -9891,6 +9891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NamDuKich-Prefab (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: gun
+      value: 
+      objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10962,6 +10966,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NamDuKich-Prefab (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: gun
+      value: 
+      objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11321,9 +11329,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4712578513633609459, guid: da5de6ef127b8224bbd9ceacd53db76f, type: 3}
+      propertyPath: targetTag
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 7296369411805279405, guid: da5de6ef127b8224bbd9ceacd53db76f, type: 3}
       propertyPath: m_Name
       value: NuDuKich_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 7296369411805279405, guid: da5de6ef127b8224bbd9ceacd53db76f, type: 3}
+      propertyPath: m_TagString
+      value: Ally
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11338,13 +11354,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -6706815091790539431, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: viewAngle
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: -6706815091790539431, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: seen.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6706815091790539431, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: 'seen.Array.data[0]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5134509774405489940, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.29
+      value: 1.3989694
       objectReference: {fileID: 0}
     - target: {fileID: 5134509774405489940, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.47
+      value: -3.1080859
       objectReference: {fileID: 0}
     - target: {fileID: 5134509774405489940, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11382,6 +11410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NamDuKich-Prefab
       objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: gun
+      value: 
+      objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11443,6 +11475,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7452853735391977322, guid: 5799a0a2abc2ca14f972173959a43134, type: 3}
+      propertyPath: gun
+      value: 
+      objectReference: {fileID: 11400000, guid: 1d5bb55be776bb64dbdc3cdca41fa36a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -100,6 +100,9 @@ GameObject:
   - component: {fileID: 2857169291481298569}
   - component: {fileID: 5056188701905175989}
   - component: {fileID: 8426447316602675417}
+  - component: {fileID: 4712578513633609459}
+  - component: {fileID: 2744995539146265464}
+  - component: {fileID: 638936163107004712}
   m_Layer: 0
   m_Name: NuDuKich_01
   m_TagString: Untagged
@@ -263,5 +266,57 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65457bf5f15919848be2c33b92996529, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 3
-  highlightVisual: {fileID: 2696009842307163051}
+  highlight: {fileID: 2696009842307163051}
+--- !u!114 &4712578513633609459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7296369411805279405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae73b041d5bc07b46bd74a113b2d5b97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 6
+  viewAngle: 100
+  targetTag: Enemy
+  wallMask:
+    serializedVersion: 2
+    m_Bits: 512
+  detectOnlyIfMoving: 0
+  seen: []
+--- !u!114 &2744995539146265464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7296369411805279405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d113625835f5924f8cf02c2f611c09f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kind: 3
+  maxHp: 90
+  moveSpeed: 3
+  hitChance: 0.75
+  critChance: 0.2
+  bonusDamage: 0
+  canHeal: 0
+--- !u!114 &638936163107004712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7296369411805279405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e752ecf016d3a4fa4e1e6f10d6f9b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gun: {fileID: 0}
+  bulletAmount: 30

@@ -1,31 +1,25 @@
 ﻿using UnityEngine;
 
-// Bắt buộc có Rigidbody2D và Collider2D để chọn và di chuyển
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class UnitController : MonoBehaviour, Controllable
 {
-    [Header("Chuyển động")]
-    [SerializeField] float movementSpeed = 3.0f;
     Rigidbody2D rb;
-    Vector2 targetPosition;
-    bool moving;
+    Vector2 targetPoint;
+    bool isMoving;
 
-    [Header("Hiệu ứng chọn")]
-    [SerializeField] GameObject highlightVisual; // 🌟 Gán trong prefab
+    public GameObject highlight; //Gán prefab highlight
 
     public Vector3 Position => transform.position;
 
-    bool isSelected;
+    bool selected;
     public bool IsSelected
     {
-        get => isSelected;
+        get => selected;
         set
         {
-            isSelected = value;
-
-            // 🔦 Bật/tắt highlight khi được chọn
-            if (highlightVisual != null)
-                highlightVisual.SetActive(isSelected);
+            selected = value;
+            if (highlight != null)
+                highlight.SetActive(selected);
         }
     }
 
@@ -35,37 +29,40 @@ public class UnitController : MonoBehaviour, Controllable
         rb.gravityScale = 0;
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
 
-        // ✅ Đảm bảo highlight tắt ban đầu
-        if (highlightVisual != null)
-            highlightVisual.SetActive(false);
+        if (highlight != null)
+            highlight.SetActive(false);
     }
 
     void Update()
     {
-        if (moving)
+        if (!isMoving) return;
+
+        Vector2 now = rb.position;
+        Vector2 dir = targetPoint - now;
+
+        if (dir.sqrMagnitude < 0.01f)
         {
-            Vector2 current = rb.position;
-            Vector2 direction = targetPosition - current;
-
-            if (direction.sqrMagnitude < 0.01f)
-            {
-                moving = false;
-                rb.linearVelocity = Vector2.zero;
-            }
-            else
-            {
-                Vector2 velocity = direction.normalized * movementSpeed;
-                rb.linearVelocity = velocity;
-
-                float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg - 90f;
-                rb.MoveRotation(angle);
-            }
+            isMoving = false;
+            rb.linearVelocity = Vector2.zero;
+            return;
         }
+
+        float speed = 3f;
+
+        var info = GetComponent<BasicUnitInfo>();
+        if (info != null)
+            speed = info.getSpeed(); //lấy tốc độ từ BasicUnitInfo
+
+        Vector2 move = dir.normalized * speed;
+        rb.linearVelocity = move;
+
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90f;
+        rb.MoveRotation(angle);
     }
 
-    public void SetTarget(Vector3 destination)
+    public void SetTarget(Vector3 dest)
     {
-        targetPosition = destination;
-        moving = true;
+        targetPoint = dest;
+        isMoving = true;
     }
 }

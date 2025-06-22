@@ -3,7 +3,6 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-[AddComponentMenu("Radial Menu Framework/RMF Core Script")]
 public class RadialMenu : MonoBehaviour
 {
     [HideInInspector] public RectTransform rt;

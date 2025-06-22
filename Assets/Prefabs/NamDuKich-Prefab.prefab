@@ -100,9 +100,12 @@ GameObject:
   - component: {fileID: 4977300656260779088}
   - component: {fileID: 4130795768432392998}
   - component: {fileID: 4881176192899953481}
+  - component: {fileID: -6706815091790539431}
+  - component: {fileID: 4293062520579862199}
+  - component: {fileID: 6125051057148938482}
   m_Layer: 0
   m_Name: NamDuKich-Prefab
-  m_TagString: Untagged
+  m_TagString: Ally
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -263,5 +266,57 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65457bf5f15919848be2c33b92996529, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 3
-  highlightVisual: {fileID: 4901854924871780282}
+  highlight: {fileID: 4901854924871780282}
+--- !u!114 &-6706815091790539431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5576123972533811417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae73b041d5bc07b46bd74a113b2d5b97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 6
+  viewAngle: 100
+  targetTag: Enemy
+  wallMask:
+    serializedVersion: 2
+    m_Bits: 512
+  detectOnlyIfMoving: 0
+  seen: []
+--- !u!114 &4293062520579862199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5576123972533811417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d113625835f5924f8cf02c2f611c09f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kind: 2
+  maxHp: 100
+  moveSpeed: 3
+  hitChance: 0.75
+  critChance: 0.2
+  bonusDamage: 0
+  canHeal: 0
+--- !u!114 &6125051057148938482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5576123972533811417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e752ecf016d3a4fa4e1e6f10d6f9b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gun: {fileID: 0}
+  bulletAmount: 30

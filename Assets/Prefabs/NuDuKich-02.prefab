@@ -100,6 +100,9 @@ GameObject:
   - component: {fileID: 5554677166478611070}
   - component: {fileID: 6167059315371355592}
   - component: {fileID: 2736216194033001794}
+  - component: {fileID: 3920854383865912981}
+  - component: {fileID: 3674163156503907448}
+  - component: {fileID: 4825924052815523421}
   m_Layer: 0
   m_Name: NuDuKich-02
   m_TagString: Untagged
@@ -263,5 +266,57 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65457bf5f15919848be2c33b92996529, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 3
-  highlightVisual: {fileID: 2561361772595277396}
+  highlight: {fileID: 2561361772595277396}
+--- !u!114 &3920854383865912981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5586679303354965499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d113625835f5924f8cf02c2f611c09f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kind: 3
+  maxHp: 90
+  moveSpeed: 3
+  hitChance: 0.75
+  critChance: 0.2
+  bonusDamage: 0
+  canHeal: 0
+--- !u!114 &3674163156503907448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5586679303354965499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae73b041d5bc07b46bd74a113b2d5b97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 6
+  viewAngle: 100
+  targetTag: Enemy
+  wallMask:
+    serializedVersion: 2
+    m_Bits: 512
+  detectOnlyIfMoving: 0
+  seen: []
+--- !u!114 &4825924052815523421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5586679303354965499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e752ecf016d3a4fa4e1e6f10d6f9b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gun: {fileID: 0}
+  bulletAmount: 30
