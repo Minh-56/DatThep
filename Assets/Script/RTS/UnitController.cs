@@ -1,21 +1,43 @@
-using UnityEngine;
+﻿using UnityEngine;
 
+// Bắt buộc có Rigidbody2D và Collider2D để chọn và di chuyển
 [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class UnitController : MonoBehaviour, Controllable
 {
+    [Header("Chuyển động")]
     [SerializeField] float movementSpeed = 3.0f;
     Rigidbody2D rb;
     Vector2 targetPosition;
     bool moving;
 
-    public bool IsSelected { get; set; }
+    [Header("Hiệu ứng chọn")]
+    [SerializeField] GameObject highlightVisual; // 🌟 Gán trong prefab
+
     public Vector3 Position => transform.position;
+
+    bool isSelected;
+    public bool IsSelected
+    {
+        get => isSelected;
+        set
+        {
+            isSelected = value;
+
+            // 🔦 Bật/tắt highlight khi được chọn
+            if (highlightVisual != null)
+                highlightVisual.SetActive(isSelected);
+        }
+    }
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0;
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+
+        // ✅ Đảm bảo highlight tắt ban đầu
+        if (highlightVisual != null)
+            highlightVisual.SetActive(false);
     }
 
     void Update()

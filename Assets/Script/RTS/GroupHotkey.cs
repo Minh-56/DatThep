@@ -5,8 +5,6 @@ public class GroupHotkey : MonoBehaviour
 {
     [SerializeField] UnitSelection selector;
     [SerializeField] GroupUIManager groupUI;
-    public Transform Transform => this.transform;
-
 
     Dictionary<int, List<Controllable>> groupMap = new();
     int lastAssignedGroup = 0;
@@ -17,6 +15,7 @@ public class GroupHotkey : MonoBehaviour
         {
             KeyCode key = KeyCode.Alpha0 + i;
 
+            // Gán nhóm: Alt + phím số
             if (Input.GetKey(KeyCode.LeftAlt) && Input.GetKeyDown(key))
             {
                 if (i <= lastAssignedGroup + 1)
@@ -32,9 +31,12 @@ public class GroupHotkey : MonoBehaviour
                     Debug.Log("Chỉ gán nhóm tăng dần.");
                 }
             }
+            // Chọn nhóm với phím số
             else if (Input.GetKeyDown(key) && groupMap.TryGetValue(i, out var group))
             {
                 selector.ClearSelection();
+
+                //Bật highlight khi chọn nhóm
                 foreach (var unit in group)
                 {
                     if (unit != null)
@@ -44,6 +46,7 @@ public class GroupHotkey : MonoBehaviour
         }
     }
 
+    // Cập nhật lại khi có đơn vị bị tiêu diệt
     public void NotifyUnitKilled(Controllable unit)
     {
         foreach (var pair in groupMap)

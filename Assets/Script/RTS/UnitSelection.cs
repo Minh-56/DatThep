@@ -83,7 +83,8 @@ public class UnitSelection : MonoBehaviour
 
     void SelectUnits(Vector3 a, Vector3 b)
     {
-        ClearSelection();
+        ClearSelection(); //Xoá highlight cũ
+
         Vector3 min = Vector3.Min(a, b);
         Vector3 max = Vector3.Max(a, b);
 
@@ -92,7 +93,7 @@ public class UnitSelection : MonoBehaviour
             Vector3 pos = unit.Position;
             bool inside = pos.x > min.x && pos.x < max.x && pos.y > min.y && pos.y < max.y;
 
-            unit.IsSelected = inside;
+            unit.IsSelected = inside; // bật/tắt highlight
             if (inside)
                 selectedUnits.Add(unit);
         }
@@ -128,10 +129,10 @@ public class UnitSelection : MonoBehaviour
             }
         }
 
-        ClearSelection();
+        ClearSelection(); //Bỏ chọn nếu click khoảng trống
     }
 
-    // ✅ Thêm để các hệ thống khác (UI, nhóm, lệnh) sử dụng
+    //Xoá toàn bộ lựa chọn và tắt highlight
     public void ClearSelection()
     {
         foreach (var u in selectedUnits)
@@ -139,6 +140,7 @@ public class UnitSelection : MonoBehaviour
         selectedUnits.Clear();
     }
 
+    //Dùng để chọn 1 đơn vị và bật highlight từ các script khác
     public void SelectUnit(Controllable unit)
     {
         if (!selectedUnits.Contains(unit))

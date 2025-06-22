@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000002, guid: e44d088d489778a4caaee87327e49b32, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: e44d088d489778a4caaee87327e49b32, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -465,9 +465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 542a37534fa624c4cb90ded402505a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rt: {fileID: 0}
-  forcedZRotation: 0
-  rot: {x: 0, y: 0, z: 0}
 --- !u!1 &117620135
 GameObject:
   m_ObjectHideFlags: 0
@@ -560,9 +557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 542a37534fa624c4cb90ded402505a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rt: {fileID: 0}
-  forcedZRotation: 0
-  rot: {x: 0, y: 0, z: 0}
 --- !u!1 &156292591
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,7 +892,7 @@ MonoBehaviour:
   zoomMin: 5
   zoomMax: 15
   limitMin: {x: 0, y: 0}
-  limitMax: {x: 0, y: 0}
+  limitMax: {x: 32, y: 24}
 --- !u!114 &519420034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1055,7 +1049,7 @@ Transform:
   m_GameObject: {fileID: 590693165}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7768762, y: -1.5737481, z: 0}
+  m_LocalPosition: {x: 2.4901607, y: -2.2247062, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9038,7 +9032,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 000000005d82fd1c
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -9177,9 +9171,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 542a37534fa624c4cb90ded402505a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rt: {fileID: 0}
-  forcedZRotation: 0
-  rot: {x: 0, y: 0, z: 0}
 --- !u!1 &832192164
 GameObject:
   m_ObjectHideFlags: 0
@@ -10817,9 +10808,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 542a37534fa624c4cb90ded402505a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rt: {fileID: 0}
-  forcedZRotation: 0
-  rot: {x: 0, y: 0, z: 0}
 --- !u!1 &1671890226
 GameObject:
   m_ObjectHideFlags: 0
@@ -11584,10 +11572,10 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+  - {fileID: 2147194791}
   - {fileID: 1507289102}
   - {fileID: 2129579440}
   - {fileID: 67542800}
-  - {fileID: 2147194791}
   - {fileID: 599073328}
   - {fileID: 5652844449322539155}
   - {fileID: 2112844882}
