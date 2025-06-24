@@ -3,16 +3,16 @@
 [CreateAssetMenu(menuName = "Weapon/Info")]
 public class WeaponInfo : ScriptableObject
 {
-    public string gunName;
+    public string GunName;
+    public Sprite GunImage;
+    public AmmoKind AmmoKind;
+    public int BaseDamage;
+    public float FireRate;
+    public int BulletsPerMag;
+    public float ReloadTime;
 
-    public AmmoKind ammoKind;
-    public int baseDamage;
-    public float fireRate;
-    public int bulletsPerMag;
-    public float reloadTime;
-
-    public bool preferTank; // dùng cho vũ khí chống tank
+    public bool PreferTank; // dùng cho vũ khí chống tank
 
     [TextArea]
-    public string note;
+    public string Note;
 }
