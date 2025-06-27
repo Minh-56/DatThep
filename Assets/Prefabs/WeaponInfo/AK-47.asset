@@ -12,11 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4431d8d7b77e5f944a9f5903516d4361, type: 3}
   m_Name: AK-47
   m_EditorClassIdentifier: 
-  gunName: AK-47
-  ammoKind: 0
-  baseDamage: 25
-  fireRate: 600
-  bulletsPerMag: 30
-  reloadTime: 2.5
-  preferTank: 0
-  note: 
+  GunName: 
+  GunImage: {fileID: 0}
+  AmmoKind: 0
+  BaseDamage: 0
+  FireRate: 0
+  BulletsPerMag: 0
+  ReloadTime: 0
+  PreferTank: 0
+  Note: 
