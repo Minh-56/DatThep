@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9217217974915661701}
   - component: {fileID: 782284977360327198}
-  m_Layer: 5
+  m_Layer: 10
   m_Name: HighlightCircle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,9 +103,10 @@ GameObject:
   - component: {fileID: 2008904474995688058}
   - component: {fileID: 8482432207103161798}
   - component: {fileID: 1970130488385742405}
-  m_Layer: 0
+  - component: {fileID: 5708331275614471709}
+  m_Layer: 10
   m_Name: NuDuKich-BaoXe-01
-  m_TagString: Untagged
+  m_TagString: Ally
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -266,6 +267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65457bf5f15919848be2c33b92996529, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 3
   highlight: {fileID: 2223387332384316802}
 --- !u!114 &2008904474995688058
 MonoBehaviour:
@@ -320,3 +322,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gun: {fileID: 0}
   bulletAmount: 30
+--- !u!95 &5708331275614471709
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2320577591433662912}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c09e2bb5a815d164b9f4fd9faadc482d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

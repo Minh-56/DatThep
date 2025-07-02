@@ -20,8 +20,8 @@ TagManager:
   - Obstacle
   - Unit
   - FogLayer
-  - 
-  - 
+  - Ally
+  - Enemy
   - 
   - 
   - 
@@ -52,6 +52,9 @@ TagManager:
     locked: 0
   - name: FogLayer
     uniqueID: 950884203
+    locked: 0
+  - name: Obstacle
+    uniqueID: 216483313
     locked: 0
   m_RenderingLayers:
   - Default
