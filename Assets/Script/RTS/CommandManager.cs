@@ -1,27 +1,30 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CommandManager : MonoBehaviour
 {
-    [SerializeField] UnitSelection unitSelector;
-    [SerializeField] Vector2 gridSpacing = new(0.8f, 0.8f);
-    int rowLength = 3;
+    [SerializeField] UnitSelection selector;
+    [SerializeField] Vector2 spacing = new(0.8f, 0.8f);
+    int rowMax = 3;
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(1) && unitSelector.selectedUnits.Count > 0)
+        if (Input.GetMouseButtonDown(1) && selector.selectedUnits.Count > 0)
         {
-            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            mousePos.z = 0f;
+            Vector3 mouseWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            mouseWorld.z = 0;
 
-            for (int i = 0; i < unitSelector.selectedUnits.Count; i++)
+            for (int i = 0; i < selector.selectedUnits.Count; i++)
             {
-                int row = i / rowLength;
-                int col = i % rowLength;
-                Vector3 offset = new Vector3(col * gridSpacing.x, row * gridSpacing.y, 0f);
-                Vector3 target = mousePos + offset;
+                int row = i / rowMax;
+                int col = i % rowMax;
 
-                unitSelector.selectedUnits[i].SetTarget(target);
+                Vector3 offset = new Vector3(col * spacing.x, -row * spacing.y, 0);
+                Vector3 realTarget = mouseWorld + offset;
+
+                selector.selectedUnits[i].SetTarget(realTarget);
             }
+
+            Debug.Log("Đã gửi lệnh di chuyển cho " + selector.selectedUnits.Count + " đơn vị.");
         }
     }
 }

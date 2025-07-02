@@ -3,14 +3,16 @@ using System.Collections.Generic;
 
 public class UnitVision : MonoBehaviour
 {
-    public float range = 6f;
-    public float viewAngle = 100f;
-    public string targetTag = "Enemy"; // có thể là "Enemy" hoặc "Ally" tùy mục tiêu muốn phát hiện
-    public LayerMask wallMask;
+    public float Range = 6f;
+    public float ViewAngle = 120f;
+    public LayerMask WallMask;
 
-    public bool detectOnlyIfMoving = false;
+    public bool DetectEnemy = true;
+    public bool DetectAlly = true;
+    public bool DetectOnlyIfMoving = false;
 
-    public List<Transform> seen = new List<Transform>();
+    public List<Transform> SeenEnemies = new();
+    public List<Transform> SeenAllies = new();
 
     void Update()
     {
@@ -19,33 +21,53 @@ public class UnitVision : MonoBehaviour
 
     void Scan()
     {
-        seen.Clear();
-        var hits = Physics2D.OverlapCircleAll(transform.position, range);
+        SeenEnemies.Clear();
+        SeenAllies.Clear();
 
-        foreach (var h in hits)
+        var Hits = Physics2D.OverlapCircleAll(transform.position, Range);
+        foreach (var H in Hits)
         {
-            if (!h.CompareTag(targetTag)) continue;
+            if (H.transform == transform) continue;
 
-            Vector2 toTarget = (h.transform.position - transform.position).normalized;
-            float angle = Vector2.Angle(transform.up, toTarget);
+            Vector2 ToTarget = (H.transform.position - transform.position).normalized;
+            float Angle = Vector2.Angle(transform.up, ToTarget);
+            if (Angle > ViewAngle / 2f) continue;
 
-            if (angle > viewAngle / 2f) continue;
+            float Dist = Vector2.Distance(transform.position, H.transform.position);
+            RaycastHit2D Ray = Physics2D.Raycast(transform.position, ToTarget, Dist, WallMask);
+            if (Ray.collider != null) continue;
 
-            float dist = Vector2.Distance(transform.position, h.transform.position);
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, toTarget, dist, wallMask);
-
-            if (hit.collider != null) continue;
-
-            if (!detectOnlyIfMoving)
+            bool IsMoving = true;
+            if (DetectOnlyIfMoving)
             {
-                seen.Add(h.transform);
+                var Rb = H.GetComponent<Rigidbody2D>();
+                IsMoving = Rb != null && Rb.linearVelocity.magnitude > 0.05f;
             }
-            else
+
+            if (IsMoving)
             {
-                var rb = h.GetComponent<Rigidbody2D>();
-                if (rb != null && rb.linearVelocity.magnitude > 0.05f)
-                    seen.Add(h.transform);
+                if (DetectEnemy && H.CompareTag("Enemy"))
+                    SeenEnemies.Add(H.transform);
+                if (DetectAlly && H.CompareTag("Ally"))
+                    SeenAllies.Add(H.transform);
             }
         }
     }
+
+    public bool IsCrowdedNear(float MinDistance)
+    {
+        foreach (var Ally in SeenAllies)
+        {
+            if (Vector2.Distance(transform.position, Ally.position) < MinDistance)
+                return true;
+        }
+
+        foreach (var Enemy in SeenEnemies)
+        {
+            if (Vector2.Distance(transform.position, Enemy.position) < MinDistance)
+                return true;
+        }
+        return false;
+    }
+
 }
