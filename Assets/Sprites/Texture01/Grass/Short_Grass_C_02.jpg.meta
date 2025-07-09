@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Short_Grass_C_02_0: 5215946508630519738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

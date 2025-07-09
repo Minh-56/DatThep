@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stump_Light_01_0: -4134811479915625566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

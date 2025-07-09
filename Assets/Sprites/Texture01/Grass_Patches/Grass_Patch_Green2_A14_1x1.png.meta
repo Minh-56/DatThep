@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grass_Patch_Green2_A14_1x1_0: -2110569095120662442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

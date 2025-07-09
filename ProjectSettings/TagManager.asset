@@ -56,5 +56,11 @@ TagManager:
   - name: Obstacle
     uniqueID: 216483313
     locked: 0
+  - name: Ally
+    uniqueID: 1803489461
+    locked: 0
+  - name: Enemy
+    uniqueID: 2337932245
+    locked: 0
   m_RenderingLayers:
   - Default

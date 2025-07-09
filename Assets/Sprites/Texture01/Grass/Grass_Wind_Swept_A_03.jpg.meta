@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grass_Wind_Swept_A_03_0: 1047969154401252482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

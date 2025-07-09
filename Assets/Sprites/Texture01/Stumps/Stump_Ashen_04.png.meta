@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stump_Ashen_04_0: -8638088731047523521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

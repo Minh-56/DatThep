@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stump_Dark_05_0: -4956445690122056389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

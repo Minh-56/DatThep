@@ -147,4 +147,6 @@ public class UnitSelection : MonoBehaviour
             unit.IsSelected = true;
         }
     }
+
+    public List<Controllable> GetSelected() => selectedUnits;
 }

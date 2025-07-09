@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Patchy_Grass_A_04_0: -2890592929920159095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
