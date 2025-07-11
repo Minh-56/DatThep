@@ -73,6 +73,7 @@ public class BasicUnitInfo : MonoBehaviour, InterfaceDamageable
     {
         return canHeal;
     }
+     public UnitRole Role;
 }
 
 // Enum loại quân
