@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Ally
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tree
+  - Water
+  - UI
+  - unitLayer
+  - coverLayer
+  - Ground
+  - Obstacle
+  - Unit
+  - FogLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 486376029
+    locked: 0
+  - name: Above Fog
+    uniqueID: 1122733083
+    locked: 0
+  - name: FogLayer
+    uniqueID: 950884203
+    locked: 0
+  m_RenderingLayers:
+  - Default
