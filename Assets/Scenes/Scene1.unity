@@ -10259,7 +10259,19 @@ PrefabInstance:
     - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
       propertyPath: gun
       value: 
-      objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
+      objectReference: {fileID: 11400000, guid: 15555815c8c7aac46a27b06074b7e5b4, type: 2}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: fireSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f03bd1189bbb12949b70b0db299e88de, type: 3}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: reloadSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 343658199cfed2447baa0c70b7d25776, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12015,6 +12027,18 @@ PrefabInstance:
       propertyPath: gun
       value: 
       objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: fireSound
+      value: 
+      objectReference: {fileID: 8300000, guid: fff17e0a806132b41a9b25da3918f646, type: 3}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: reloadSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ab965e2b6ca0c14da329415eefa75cf, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12459,6 +12483,18 @@ PrefabInstance:
       propertyPath: gun
       value: 
       objectReference: {fileID: 11400000, guid: d08b6310e33890d43a92532e363c1f36, type: 2}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: fireSound
+      value: 
+      objectReference: {fileID: 8300000, guid: fff17e0a806132b41a9b25da3918f646, type: 3}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125051057148938482, guid: 43806e849d7fa9540beb5253e45bfab5, type: 3}
+      propertyPath: reloadSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ab965e2b6ca0c14da329415eefa75cf, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
