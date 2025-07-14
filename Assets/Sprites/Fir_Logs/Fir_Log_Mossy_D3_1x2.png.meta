@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fir_Log_Mossy_D3_1x2_0: -6127904643106837373
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -323,7 +323,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Water_Ripples_A1_2x1_0: -5815541312525910588
+      Water_Ripples_A1_2x1_1: -2211342809865684300
+      Water_Ripples_A1_2x1_2: 1373835613853751698
+      Water_Ripples_A1_2x1_3: -5560002658551688157
+      Water_Ripples_A1_2x1_4: 5874771085249309343
+      Water_Ripples_A1_2x1_5: -2034043264865727622
+      Water_Ripples_A1_2x1_6: -2288846595012210318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

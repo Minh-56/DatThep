@@ -26,7 +26,8 @@ public class WinLoseHandler : MonoBehaviour
         foreach (GameObject ally in allies)
         {
             BasicUnitInfo info = ally.GetComponent<BasicUnitInfo>();
-            if (info != null && info.Role != UnitRole.Medic)
+            // QuanY là đơn vị Medic
+            if (info != null && info.kind != UnitKind.QuanY)
             {
                 alliesCountExcludingMedic++;
             }
@@ -53,7 +54,7 @@ public class WinLoseHandler : MonoBehaviour
     {
         alliesAlive--;
         BasicUnitInfo info = ally.GetComponent<BasicUnitInfo>();
-        if (info != null && info.Role != UnitRole.Medic)
+        if (info != null && info.kind != UnitKind.QuanY)
         {
             alliesAliveExcludingMedic--;
             if (alliesAliveExcludingMedic <= 0)
@@ -73,7 +74,7 @@ public class WinLoseHandler : MonoBehaviour
         int starsEarned = 0;
         if (isWin)
         {
-            float surviveRate = alliesCountExcludingMedic > 0 ? 
+            float surviveRate = alliesCountExcludingMedic > 0 ?
                 (float)alliesAliveExcludingMedic / alliesCountExcludingMedic : 0f;
             if (surviveRate >= 0.8f) starsEarned = 3;
             else if (surviveRate >= 0.5f) starsEarned = 2;

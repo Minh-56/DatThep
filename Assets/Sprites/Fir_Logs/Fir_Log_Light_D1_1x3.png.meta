@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fir_Log_Light_D1_1x3_0: 5485806962648740859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

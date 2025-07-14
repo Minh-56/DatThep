@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fir_Log_Mossy_Stump_A2_3x2_0: -1867710399782440191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cave_Wall_Straight_2x2_A_0: 3000513757623841577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

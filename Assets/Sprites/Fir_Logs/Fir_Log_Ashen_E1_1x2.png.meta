@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fir_Log_Ashen_E1_1x2_0: -6761949643710830259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

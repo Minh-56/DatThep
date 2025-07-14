@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cave_Wall_Dead_End_4x1_0: -2258986489431531513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
