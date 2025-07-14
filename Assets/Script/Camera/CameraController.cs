@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 
-/// Singleton để quản lý camera theo dõi đơn vị từ bất kỳ nơi nào
 public class CameraController : MonoBehaviour
 {
     public static CameraController Instance { get; private set; }

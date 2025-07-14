@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: e32613d07d3290f478d3e7ae05b34caa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4607077035549491703
+    second: Grass_Overlay_Long_A_03_0
+  - first:
+      213: -7401843416814760972
+    second: Grass_Overlay_Long_A_03_1
+  - first:
+      213: -2639818578504893290
+    second: Grass_Overlay_Long_A_03_2
+  - first:
+      213: -8520954589449462196
+    second: Grass_Overlay_Long_A_03_3
+  - first:
+      213: -129381652884460148
+    second: Grass_Overlay_Long_A_03_4
+  - first:
+      213: 2542749077731105465
+    second: Grass_Overlay_Long_A_03_5
+  - first:
+      213: 934201926617742341
+    second: Grass_Overlay_Long_A_03_6
+  - first:
+      213: 2896682531378885093
+    second: Grass_Overlay_Long_A_03_7
+  - first:
+      213: -5487700534687930241
+    second: Grass_Overlay_Long_A_03_8
+  - first:
+      213: 7782903377872628447
+    second: Grass_Overlay_Long_A_03_9
+  - first:
+      213: -3972071497781698489
+    second: Grass_Overlay_Long_A_03_10
+  - first:
+      213: 1877700211626511385
+    second: Grass_Overlay_Long_A_03_11
+  - first:
+      213: 4842671211509913818
+    second: Grass_Overlay_Long_A_03_12
+  - first:
+      213: -5029269864656725988
+    second: Grass_Overlay_Long_A_03_13
+  - first:
+      213: -6030505091395220035
+    second: Grass_Overlay_Long_A_03_14
+  - first:
+      213: -3019144237312983266
+    second: Grass_Overlay_Long_A_03_15
+  - first:
+      213: 3280460980330752282
+    second: Grass_Overlay_Long_A_03_16
+  - first:
+      213: 7862198456688870529
+    second: Grass_Overlay_Long_A_03_17
+  - first:
+      213: 7309506360227845229
+    second: Grass_Overlay_Long_A_03_18
+  - first:
+      213: -4005369808100145911
+    second: Grass_Overlay_Long_A_03_19
+  - first:
+      213: -8730068996452879064
+    second: Grass_Overlay_Long_A_03_20
+  - first:
+      213: 1412746243498448003
+    second: Grass_Overlay_Long_A_03_21
+  - first:
+      213: 1374289763108546043
+    second: Grass_Overlay_Long_A_03_22
+  - first:
+      213: -1608672370222742329
+    second: Grass_Overlay_Long_A_03_23
+  - first:
+      213: 7710367473374329507
+    second: Grass_Overlay_Long_A_03_24
+  - first:
+      213: 3237645614582660332
+    second: Grass_Overlay_Long_A_03_25
+  - first:
+      213: 6467347357682191449
+    second: Grass_Overlay_Long_A_03_26
+  - first:
+      213: -2039257564460450519
+    second: Grass_Overlay_Long_A_03_27
+  - first:
+      213: 588238679280423961
+    second: Grass_Overlay_Long_A_03_28
+  - first:
+      213: -2609737023275448894
+    second: Grass_Overlay_Long_A_03_29
+  - first:
+      213: 341501257766927478
+    second: Grass_Overlay_Long_A_03_30
+  - first:
+      213: 6752189452701339999
+    second: Grass_Overlay_Long_A_03_31
+  - first:
+      213: 3626782474859986359
+    second: Grass_Overlay_Long_A_03_32
+  - first:
+      213: 1150828763480634214
+    second: Grass_Overlay_Long_A_03_33
+  - first:
+      213: -2393144559727525755
+    second: Grass_Overlay_Long_A_03_34
+  - first:
+      213: -4566818726856571192
+    second: Grass_Overlay_Long_A_03_35
+  - first:
+      213: 4260283837485740282
+    second: Grass_Overlay_Long_A_03_36
+  - first:
+      213: -537426861533140208
+    second: Grass_Overlay_Long_A_03_37
+  - first:
+      213: 5355176532474516159
+    second: Grass_Overlay_Long_A_03_38
+  - first:
+      213: 2033613983170656273
+    second: Grass_Overlay_Long_A_03_39
+  - first:
+      213: -3458621231925913628
+    second: Grass_Overlay_Long_A_03_40
+  - first:
+      213: -6262526165710308052
+    second: Grass_Overlay_Long_A_03_41
+  - first:
+      213: -8698475221158927843
+    second: Grass_Overlay_Long_A_03_42
+  - first:
+      213: 1801015484498979308
+    second: Grass_Overlay_Long_A_03_43
+  - first:
+      213: 6942556373766047594
+    second: Grass_Overlay_Long_A_03_44
+  - first:
+      213: 2661045904942069189
+    second: Grass_Overlay_Long_A_03_45
+  - first:
+      213: -5658609143432659309
+    second: Grass_Overlay_Long_A_03_46
+  - first:
+      213: 3701230213149773999
+    second: Grass_Overlay_Long_A_03_47
+  - first:
+      213: 8380295296881832055
+    second: Grass_Overlay_Long_A_03_48
+  - first:
+      213: 5132579798303324038
+    second: Grass_Overlay_Long_A_03_49
+  - first:
+      213: 3954271315652006695
+    second: Grass_Overlay_Long_A_03_50
+  - first:
+      213: 6532239777267383890
+    second: Grass_Overlay_Long_A_03_51
+  - first:
+      213: -4808393715216287805
+    second: Grass_Overlay_Long_A_03_52
+  - first:
+      213: 7888350296847104523
+    second: Grass_Overlay_Long_A_03_53
+  - first:
+      213: 7355432201611538061
+    second: Grass_Overlay_Long_A_03_54
+  - first:
+      213: -4925245396329521056
+    second: Grass_Overlay_Long_A_03_55
+  - first:
+      213: 4821739037100251115
+    second: Grass_Overlay_Long_A_03_56
+  - first:
+      213: 3197756760626381640
+    second: Grass_Overlay_Long_A_03_57
+  - first:
+      213: 2932716507094210668
+    second: Grass_Overlay_Long_A_03_58
+  - first:
+      213: 9132558212643490922
+    second: Grass_Overlay_Long_A_03_59
+  - first:
+      213: 2891457360987000609
+    second: Grass_Overlay_Long_A_03_60
+  - first:
+      213: 3802764620867202231
+    second: Grass_Overlay_Long_A_03_61
+  - first:
+      213: 8351889096396573060
+    second: Grass_Overlay_Long_A_03_62
+  - first:
+      213: -3805511768320017659
+    second: Grass_Overlay_Long_A_03_63
+  - first:
+      213: -1345558521139044942
+    second: Grass_Overlay_Long_A_03_64
+  - first:
+      213: -8462635744937224973
+    second: Grass_Overlay_Long_A_03_65
+  - first:
+      213: -3429397531732059531
+    second: Grass_Overlay_Long_A_03_66
+  - first:
+      213: -2581061951372454593
+    second: Grass_Overlay_Long_A_03_67
+  - first:
+      213: 2401219101754510350
+    second: Grass_Overlay_Long_A_03_68
+  - first:
+      213: -2031167986516819872
+    second: Grass_Overlay_Long_A_03_69
+  - first:
+      213: -7686702784894024240
+    second: Grass_Overlay_Long_A_03_70
+  - first:
+      213: -8866087585513311889
+    second: Grass_Overlay_Long_A_03_71
+  - first:
+      213: 9067949566152205669
+    second: Grass_Overlay_Long_A_03_72
+  - first:
+      213: -4452566549682936795
+    second: Grass_Overlay_Long_A_03_73
+  - first:
+      213: -7120911618043184052
+    second: Grass_Overlay_Long_A_03_74
+  - first:
+      213: 8512647767899846337
+    second: Grass_Overlay_Long_A_03_75
+  - first:
+      213: -8940311740114850920
+    second: Grass_Overlay_Long_A_03_76
+  - first:
+      213: 5177097568605349751
+    second: Grass_Overlay_Long_A_03_77
+  - first:
+      213: -7811454746564260514
+    second: Grass_Overlay_Long_A_03_78
+  - first:
+      213: -7968388215752487508
+    second: Grass_Overlay_Long_A_03_79
+  - first:
+      213: 7361791196390800668
+    second: Grass_Overlay_Long_A_03_80
+  - first:
+      213: -1010556803894666299
+    second: Grass_Overlay_Long_A_03_81
+  - first:
+      213: -3589655318075077566
+    second: Grass_Overlay_Long_A_03_82
+  - first:
+      213: 1516667784897212255
+    second: Grass_Overlay_Long_A_03_83
+  - first:
+      213: -5074383402629983368
+    second: Grass_Overlay_Long_A_03_84
+  - first:
+      213: 4271550763478189066
+    second: Grass_Overlay_Long_A_03_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 928
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e763378df5010c0800000000000000
+      internalID: -4607077035549491703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1002
+        width: 193
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb41b901ae574990800000000000000
+      internalID: -7401843416814760972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1098
+        width: 224
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3dbc3dfa7d5bd0800000000000000
+      internalID: -2639818578504893290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1057
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e51a462fc7fb980800000000000000
+      internalID: -8520954589449462196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_4
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 854
+        width: 189
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6e5b7218543ef0800000000000000
+      internalID: -129381652884460148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1041
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5d1b60d8a94320800000000000000
+      internalID: 2542749077731105465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 683
+        width: 374
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c3980e3b3f6fc00800000000000000
+      internalID: 934201926617742341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 899
+        width: 182
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1faed3a65133820800000000000000
+      internalID: 2896682531378885093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 997
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7864345075c7d3b0800000000000000
+      internalID: -5487700534687930241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 846
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2947f26d620c60800000000000000
+      internalID: 7782903377872628447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 869
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a448840e50e8c0800000000000000
+      internalID: -3972071497781698489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 701
+        width: 116
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8cacd46eee0a10800000000000000
+      internalID: 1877700211626511385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_12
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 590
+        width: 153
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad81f0e2fcf943340800000000000000
+      internalID: 4842671211509913818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 457
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181f8d44b1743ab0800000000000000
+      internalID: -5029269864656725988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 783
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd043302975f4ca0800000000000000
+      internalID: -6030505091395220035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 595
+        width: 215
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fba41ff48d916d0800000000000000
+      internalID: -3019144237312983266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 590
+        width: 147
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e42881e9868d20800000000000000
+      internalID: 3280460980330752282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 680
+        width: 186
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184809437d32c1d60800000000000000
+      internalID: 7862198456688870529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_18
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 778
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64d6d4ae45907560800000000000000
+      internalID: 7309506360227845229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 700
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905cd1281611a68c0800000000000000
+      internalID: -4005369808100145911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 757
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82576c9608098d680800000000000000
+      internalID: -8730068996452879064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 669
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841e7139351b9310800000000000000
+      internalID: 1412746243498448003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 658
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56a8c1245721310800000000000000
+      internalID: 1374289763108546043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 688
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c443ec9009dca9e0800000000000000
+      internalID: -1608672370222742329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 668
+        width: 87
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaf332ad5ab00b60800000000000000
+      internalID: 7710367473374329507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_25
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 675
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecfccd588d6eec20800000000000000
+      internalID: 3237645614582660332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 584
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c45b50822a0c950800000000000000
+      internalID: 6467347357682191449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_27
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 521
+        width: 109
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7ec0bc0a13b3e0800000000000000
+      internalID: -2039257564460450519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_28
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 558
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91497a156f7d92800800000000000000
+      internalID: 588238679280423961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_29
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 618
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54b7a110a58cbd0800000000000000
+      internalID: -2609737023275448894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_30
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 518
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cfb87a5914db400800000000000000
+      internalID: 341501257766927478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_31
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 631
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511768588894bd50800000000000000
+      internalID: 6752189452701339999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 575
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd34a3027be45230800000000000000
+      internalID: 3626782474859986359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 607
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b09cb9a098ff00800000000000000
+      internalID: 1150828763480634214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_34
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 580
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580484dc3b7d9ced0800000000000000
+      internalID: -2393144559727525755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_35
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 570
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6cc1060966f90c0800000000000000
+      internalID: -4566818726856571192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_36
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 587
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fca704919f1b30800000000000000
+      internalID: 4260283837485740282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_37
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 573
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b6099ed1daa88f0800000000000000
+      internalID: -537426861533140208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 537
+        width: 84
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2d6afeea8615a40800000000000000
+      internalID: 5355176532474516159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_39
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 457
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1187725a429d83c10800000000000000
+      internalID: 2033613983170656273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_40
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 560
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e79e6a60528000d0800000000000000
+      internalID: -3458621231925913628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 552
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7f30f1a90719a0800000000000000
+      internalID: -6262526165710308052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_42
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 500
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e8437fdec84780800000000000000
+      internalID: -8698475221158927843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 197
+        width: 346
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce92a8c7a0e7ef810800000000000000
+      internalID: 1801015484498979308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_44
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 496
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67037b1d3ae85060800000000000000
+      internalID: 6942556373766047594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_45
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 549
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c57417d62fede420800000000000000
+      internalID: 2661045904942069189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 482
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3be2f6f49871b0800000000000000
+      internalID: -5658609143432659309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 534
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa05cb6d4496d5330800000000000000
+      internalID: 3701230213149773999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_48
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 462
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b48bfb2acc4470800000000000000
+      internalID: 8380295296881832055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 517
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687373b02269a3740800000000000000
+      internalID: 5132579798303324038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_50
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 330
+        width: 156
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72354fa9fc460e630800000000000000
+      internalID: 3954271315652006695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 334
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef2b7d77d27aa50800000000000000
+      internalID: 6532239777267383890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 463
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ff485467254db0800000000000000
+      internalID: -4808393715216287805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_53
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 474
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a3b6bfccc097d60800000000000000
+      internalID: 7888350296847104523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 470
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e668add9eb31660800000000000000
+      internalID: 7355432201611538061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 218
+        width: 189
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a628386306abb0800000000000000
+      internalID: -4925245396329521056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_56
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 433
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be79ef98b124ae240800000000000000
+      internalID: 4821739037100251115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 446
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434d33d4d6b06c20800000000000000
+      internalID: 3197756760626381640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_58
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 341
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c685640002a13b820800000000000000
+      internalID: 2932716507094210668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_59
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 422
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c013bde4d5dbe70800000000000000
+      internalID: 9132558212643490922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 89
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f81d47625802820800000000000000
+      internalID: 2891457360987000609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 547
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc6637564226c430800000000000000
+      internalID: 3802764620867202231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_62
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 304
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4890d2a02eed7e370800000000000000
+      internalID: 8351889096396573060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_63
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 338
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b77bc853b103bc0800000000000000
+      internalID: -3805511768320017659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_64
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 220
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdd10377ad935de0800000000000000
+      internalID: -1345558521139044942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_65
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 263
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45e7f70adae8a80800000000000000
+      internalID: -8462635744937224973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_66
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 271
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a52875d155860d0800000000000000
+      internalID: -3429397531732059531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_67
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 160
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351b2d84d93e2cd0800000000000000
+      internalID: -2581061951372454593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 231
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cc5f30d08d25120800000000000000
+      internalID: 2401219101754510350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_69
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 216
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06005845a77dfc3e0800000000000000
+      internalID: -2031167986516819872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_70
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 138
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c2640b88535590800000000000000
+      internalID: -7686702784894024240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 71
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f617af5c05455f480800000000000000
+      internalID: -8866087585513311889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_72
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 178
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e8ab1614d7dd70800000000000000
+      internalID: 9067949566152205669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_73
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 192
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524ac53505e4532c0800000000000000
+      internalID: -4452566549682936795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_74
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 97
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c75919c907d2d90800000000000000
+      internalID: -7120911618043184052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_75
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 134
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c631bffa00032670800000000000000
+      internalID: 8512647767899846337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b233517d1ade380800000000000000
+      internalID: -8940311740114850920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_77
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 60
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a2482fceb8d740800000000000000
+      internalID: 5177097568605349751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_78
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 254
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d8ffb7b43289390800000000000000
+      internalID: -7811454746564260514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_79
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 137
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0aa7d2299a6190800000000000000
+      internalID: -7968388215752487508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db873b6165a2660800000000000000
+      internalID: 7361791196390800668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 88
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb1186e0f7c9f1f0800000000000000
+      internalID: -1010556803894666299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_82
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 252
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c0b0cc18bfe2ec0800000000000000
+      internalID: -3589655318075077566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fa31190594c0510800000000000000
+      internalID: 1516667784897212255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_84
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8731a183e2b2499b0800000000000000
+      internalID: -5074383402629983368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_Overlay_Long_A_03_85
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048a29a9c8974b30800000000000000
+      internalID: 4271550763478189066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grass_Overlay_Long_A_03_0: -4607077035549491703
+      Grass_Overlay_Long_A_03_1: -7401843416814760972
+      Grass_Overlay_Long_A_03_10: -3972071497781698489
+      Grass_Overlay_Long_A_03_11: 1877700211626511385
+      Grass_Overlay_Long_A_03_12: 4842671211509913818
+      Grass_Overlay_Long_A_03_13: -5029269864656725988
+      Grass_Overlay_Long_A_03_14: -6030505091395220035
+      Grass_Overlay_Long_A_03_15: -3019144237312983266
+      Grass_Overlay_Long_A_03_16: 3280460980330752282
+      Grass_Overlay_Long_A_03_17: 7862198456688870529
+      Grass_Overlay_Long_A_03_18: 7309506360227845229
+      Grass_Overlay_Long_A_03_19: -4005369808100145911
+      Grass_Overlay_Long_A_03_2: -2639818578504893290
+      Grass_Overlay_Long_A_03_20: -8730068996452879064
+      Grass_Overlay_Long_A_03_21: 1412746243498448003
+      Grass_Overlay_Long_A_03_22: 1374289763108546043
+      Grass_Overlay_Long_A_03_23: -1608672370222742329
+      Grass_Overlay_Long_A_03_24: 7710367473374329507
+      Grass_Overlay_Long_A_03_25: 3237645614582660332
+      Grass_Overlay_Long_A_03_26: 6467347357682191449
+      Grass_Overlay_Long_A_03_27: -2039257564460450519
+      Grass_Overlay_Long_A_03_28: 588238679280423961
+      Grass_Overlay_Long_A_03_29: -2609737023275448894
+      Grass_Overlay_Long_A_03_3: -8520954589449462196
+      Grass_Overlay_Long_A_03_30: 341501257766927478
+      Grass_Overlay_Long_A_03_31: 6752189452701339999
+      Grass_Overlay_Long_A_03_32: 3626782474859986359
+      Grass_Overlay_Long_A_03_33: 1150828763480634214
+      Grass_Overlay_Long_A_03_34: -2393144559727525755
+      Grass_Overlay_Long_A_03_35: -4566818726856571192
+      Grass_Overlay_Long_A_03_36: 4260283837485740282
+      Grass_Overlay_Long_A_03_37: -537426861533140208
+      Grass_Overlay_Long_A_03_38: 5355176532474516159
+      Grass_Overlay_Long_A_03_39: 2033613983170656273
+      Grass_Overlay_Long_A_03_4: -129381652884460148
+      Grass_Overlay_Long_A_03_40: -3458621231925913628
+      Grass_Overlay_Long_A_03_41: -6262526165710308052
+      Grass_Overlay_Long_A_03_42: -8698475221158927843
+      Grass_Overlay_Long_A_03_43: 1801015484498979308
+      Grass_Overlay_Long_A_03_44: 6942556373766047594
+      Grass_Overlay_Long_A_03_45: 2661045904942069189
+      Grass_Overlay_Long_A_03_46: -5658609143432659309
+      Grass_Overlay_Long_A_03_47: 3701230213149773999
+      Grass_Overlay_Long_A_03_48: 8380295296881832055
+      Grass_Overlay_Long_A_03_49: 5132579798303324038
+      Grass_Overlay_Long_A_03_5: 2542749077731105465
+      Grass_Overlay_Long_A_03_50: 3954271315652006695
+      Grass_Overlay_Long_A_03_51: 6532239777267383890
+      Grass_Overlay_Long_A_03_52: -4808393715216287805
+      Grass_Overlay_Long_A_03_53: 7888350296847104523
+      Grass_Overlay_Long_A_03_54: 7355432201611538061
+      Grass_Overlay_Long_A_03_55: -4925245396329521056
+      Grass_Overlay_Long_A_03_56: 4821739037100251115
+      Grass_Overlay_Long_A_03_57: 3197756760626381640
+      Grass_Overlay_Long_A_03_58: 2932716507094210668
+      Grass_Overlay_Long_A_03_59: 9132558212643490922
+      Grass_Overlay_Long_A_03_6: 934201926617742341
+      Grass_Overlay_Long_A_03_60: 2891457360987000609
+      Grass_Overlay_Long_A_03_61: 3802764620867202231
+      Grass_Overlay_Long_A_03_62: 8351889096396573060
+      Grass_Overlay_Long_A_03_63: -3805511768320017659
+      Grass_Overlay_Long_A_03_64: -1345558521139044942
+      Grass_Overlay_Long_A_03_65: -8462635744937224973
+      Grass_Overlay_Long_A_03_66: -3429397531732059531
+      Grass_Overlay_Long_A_03_67: -2581061951372454593
+      Grass_Overlay_Long_A_03_68: 2401219101754510350
+      Grass_Overlay_Long_A_03_69: -2031167986516819872
+      Grass_Overlay_Long_A_03_7: 2896682531378885093
+      Grass_Overlay_Long_A_03_70: -7686702784894024240
+      Grass_Overlay_Long_A_03_71: -8866087585513311889
+      Grass_Overlay_Long_A_03_72: 9067949566152205669
+      Grass_Overlay_Long_A_03_73: -4452566549682936795
+      Grass_Overlay_Long_A_03_74: -7120911618043184052
+      Grass_Overlay_Long_A_03_75: 8512647767899846337
+      Grass_Overlay_Long_A_03_76: -8940311740114850920
+      Grass_Overlay_Long_A_03_77: 5177097568605349751
+      Grass_Overlay_Long_A_03_78: -7811454746564260514
+      Grass_Overlay_Long_A_03_79: -7968388215752487508
+      Grass_Overlay_Long_A_03_8: -5487700534687930241
+      Grass_Overlay_Long_A_03_80: 7361791196390800668
+      Grass_Overlay_Long_A_03_81: -1010556803894666299
+      Grass_Overlay_Long_A_03_82: -3589655318075077566
+      Grass_Overlay_Long_A_03_83: 1516667784897212255
+      Grass_Overlay_Long_A_03_84: -5074383402629983368
+      Grass_Overlay_Long_A_03_85: 4271550763478189066
+      Grass_Overlay_Long_A_03_9: 7782903377872628447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

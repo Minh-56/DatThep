@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4daee63fa630b8d4b853e350ec3060a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1637992790822424729
+    second: Plant_F_Green_Patch_03_0
+  - first:
+      213: 3228558146727724781
+    second: Plant_F_Green_Patch_03_1
+  - first:
+      213: -8721545565854679518
+    second: Plant_F_Green_Patch_03_2
+  - first:
+      213: 1884517643323146109
+    second: Plant_F_Green_Patch_03_3
+  - first:
+      213: -8561433459354737641
+    second: Plant_F_Green_Patch_03_4
+  - first:
+      213: 7718402474555321416
+    second: Plant_F_Green_Patch_03_5
+  - first:
+      213: 6797599571267807219
+    second: Plant_F_Green_Patch_03_6
+  - first:
+      213: -8199669860463424728
+    second: Plant_F_Green_Patch_03_7
+  - first:
+      213: -9057328771261437378
+    second: Plant_F_Green_Patch_03_8
+  - first:
+      213: 7677557348608700958
+    second: Plant_F_Green_Patch_03_9
+  - first:
+      213: 8257435935021669545
+    second: Plant_F_Green_Patch_03_10
+  - first:
+      213: 2528259080439560909
+    second: Plant_F_Green_Patch_03_11
+  - first:
+      213: 6249067826722067350
+    second: Plant_F_Green_Patch_03_12
+  - first:
+      213: -4464575269247997440
+    second: Plant_F_Green_Patch_03_13
+  - first:
+      213: -4378481121585891941
+    second: Plant_F_Green_Patch_03_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 167
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901f99c3c15bb610800000000000000
+      internalID: 1637992790822424729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 155
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6466067842ecc20800000000000000
+      internalID: 3228558146727724781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e39de3488d6f680800000000000000
+      internalID: -8721545565854679518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7b3fdfc6272a10800000000000000
+      internalID: 1884517643323146109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714640f01adaf2980800000000000000
+      internalID: -8561433459354737641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cad5128264d1b60800000000000000
+      internalID: 7718402474555321416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7e3ca7bcce55e50800000000000000
+      internalID: 6797599571267807219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bc993a4bbe43e80800000000000000
+      internalID: -8199669860463424728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 49
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a69076877ed4280800000000000000
+      internalID: -9057328771261437378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f28a2bb92c8a60800000000000000
+      internalID: 7677557348608700958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac138eab3e489270800000000000000
+      internalID: 8257435935021669545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca71c50d3e261320800000000000000
+      internalID: 2528259080439560909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935715541629b650800000000000000
+      internalID: 6249067826722067350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aaa7b6274aa02c0800000000000000
+      internalID: -4464575269247997440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_F_Green_Patch_03_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957e1c3e928c33c0800000000000000
+      internalID: -4378481121585891941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plant_F_Green_Patch_03_0: 1637992790822424729
+      Plant_F_Green_Patch_03_1: 3228558146727724781
+      Plant_F_Green_Patch_03_10: 8257435935021669545
+      Plant_F_Green_Patch_03_11: 2528259080439560909
+      Plant_F_Green_Patch_03_12: 6249067826722067350
+      Plant_F_Green_Patch_03_13: -4464575269247997440
+      Plant_F_Green_Patch_03_14: -4378481121585891941
+      Plant_F_Green_Patch_03_2: -8721545565854679518
+      Plant_F_Green_Patch_03_3: 1884517643323146109
+      Plant_F_Green_Patch_03_4: -8561433459354737641
+      Plant_F_Green_Patch_03_5: 7718402474555321416
+      Plant_F_Green_Patch_03_6: 6797599571267807219
+      Plant_F_Green_Patch_03_7: -8199669860463424728
+      Plant_F_Green_Patch_03_8: -9057328771261437378
+      Plant_F_Green_Patch_03_9: 7677557348608700958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

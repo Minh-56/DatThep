@@ -85,15 +85,15 @@ LightmapSettings:
     m_PVREnvironmentMIS: 1
     m_PVRCulling: 1
     m_PVRFilteringGaussRadiusDirect: 1
-    m_PVRFilteringGaussRadiusIndirect: 5
-    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringGaussRadiusIndirect: 1
+    m_PVRFilteringGaussRadiusAO: 1
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: e44d088d489778a4caaee87327e49b32, type: 2}
+  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -119,6 +119,8 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+=======
 --- !u!1 &42558434
 GameObject:
   m_ObjectHideFlags: 0
@@ -12789,24 +12791,8 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 948754551667191909, guid: 39034138801429041bda7282ce45b12f, type: 3}
   m_PrefabInstance: {fileID: 8468853409394878154}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> origin/HuyHoang
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
-  m_Roots:
-  - {fileID: 519420032}
-  - {fileID: 619394802}
-  - {fileID: 2147194791}
-  - {fileID: 1507289102}
-  - {fileID: 2129579440}
-  - {fileID: 67542800}
-  - {fileID: 599073328}
-  - {fileID: 5652844449322539155}
-  - {fileID: 2112844882}
-  - {fileID: 1143174267}
-  - {fileID: 1827613681429140436}
-  - {fileID: 8004967471201939642}
-  - {fileID: 6427227261848873127}
-  - {fileID: 6779375710393346303}
-  - {fileID: 1089533078}
-  - {fileID: 346780041}
-  - {fileID: 1147486665}
+  m_Roots: []
